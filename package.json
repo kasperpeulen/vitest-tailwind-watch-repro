@@ -1,0 +1,16 @@
+{
+  "name": "vitest-tailwind-watch-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest --watch"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.3",
+    "@vitest/browser-playwright": "5.0.3",
+    "playwright": "1.63.0",
+    "tailwindcss": "4.3.3",
+    "vite": "8.3.2",
+    "vitest": "5.0.3"
+  }
+}
